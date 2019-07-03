@@ -1,8 +1,7 @@
 /*********TACHLOG powered********
 *********www.troncart.com*******
 **electronics components online**
-***********E PAPER**************
-***********13-035-2019**************
+***********4x3 matrix keypad**************
 */
  
 #include <Keypad.h>
